@@ -1,0 +1,15 @@
+.DS_Store
+__MACOSX/
+._*
+~$*
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+/data/raw/*
+!/data/raw/README.md
+/private/
+/local/
+*客户名单*.xlsx
+*客户名单*.csv
